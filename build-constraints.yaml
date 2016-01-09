@@ -1838,6 +1838,9 @@ packages:
     "Haisheng Wu <freizl@gmail.com>":
         - hoauth2
     
+    "Luka Horvat <luka.horvat9@gmail.com>"
+        - Slides
+    
     # If you stop mainaining a package you can move it here.
     # It will then be disabled if it starts causing problems.
     "Abandoned packages":
