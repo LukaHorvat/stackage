@@ -1875,6 +1875,11 @@ packages:
 
     "Anthony Cowley <acowley@gmail.com> @acowley":
         - Frames
+        
+    "Luka Horvat <luka.horvat9@gmail.com>":
+        - debug-time
+        - Slides
+        - visibility
 
     # If you stop mainaining a package you can move it here.
     # It will then be disabled if it starts causing problems.
